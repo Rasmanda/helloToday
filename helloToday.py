@@ -1,5 +1,5 @@
 a = "amanda"
-b = "hello sgt"
+b = "hello She Goes Tech"
 
 print(a + b)
 print(a)
